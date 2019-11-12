@@ -1,0 +1,138 @@
+/* 
+  Localizable.strings
+  MyProject
+
+  Created by Ben on 2019/10/18.
+  Copyright © 2019 Example. All rights reserved.
+*/
+
+"Text" = "中文";
+
+"name_angelo" = "安吉洛";
+"name_ankhira" = "昂凱拉";
+"name_arden" = "雅頓";
+"name_athalia" = "阿塔利婭";
+"name_baden" = "巴登";
+"name_belinda" = "貝琳達";
+"name_brutus" = "布魯特斯";
+"name_eironn" = "埃隆";
+"name_estrilda" = "安絲特瑞達";
+"name_ezizh" = "埃茲";
+"name_fawkes" = "弗克斯";
+"name_ferael" = "法瑞奧";
+"name_golus" = "高魯斯";
+"name_gorvo" = "高爾沃";
+"name_grezhul" = "格瑞澤爾勒";
+"name_hendrik" = "亨德里克";
+"name_hogan" = "霍根";
+"name_ira" = "伊拉";
+"name_isabella" = "伊莎貝拉";
+"name_kaz" = "卡茲";
+"name_kelthur" = "甘瑟爾";
+"name_khasos" = "克艾索斯";
+"name_lucius" = "盧修斯";
+"name_lyca" = "萊卡";
+"name_mehira" = "梅希拉";
+"name_mirael" = "米瑞兒";
+"name_morvus" = "莫韋斯";
+"name_nara" = "奈拉";
+"name_nemora" = "妮莫拉";
+"name_niru" = "尼汝";
+"name_numisu" = "魯米蘇";
+"name_ogi" = "奧吉";
+"name_raine" = "雷恩";
+"name_rosaline" = "羅莎琳";
+"name_rowan" = "羅萬";
+"name_safiya" = "薩忒娜";
+"name_saveas" = "薩韋斯";
+"name_seirus" = "希瑞斯";
+"name_shemira" = "雪米拉";
+"name_silvina" = "西爾維娜";
+"name_skreg" = "斯克雷格";
+"name_tasi" = "塔西";
+"name_thane" = "瑟恩";
+"name_thoran" = "托安";
+"name_twins" = "伊萊亞&amp;萊拉";
+"name_ulmus" = "奧曼斯";
+"name_vedan" = "韋旦";
+"name_vurk" = "沃爾克";
+"name_warek" = "沃克";
+
+"race_litghtbearers" = "耀光帝國";
+"race_maulers" = "蠻血部族";
+"race_graveborn" = "亡靈軍團";
+"race_wilders" = "綠裔聯盟";
+"race_celestials" = "半神";
+"race_hypogean" = "惡魔";
+
+"type_strength" = "力量";
+"type_agility" = "敏捷";
+"type_intelligence" = "智力";
+
+"color_purple" = "神話";
+"color_blue" = "史詩";
+"color_green" = "普通";
+
+"role_dps" = "DPS";
+"role_support" = "輔助";
+"role_healer" = "治療";
+"role_tank" = "坦克";
+"role_shield" = "護盾";
+"role_cc" = "CC";
+"role_buffer" = "增益";
+"role_debuffer" = "減益";
+"role_silence" = "沉默";
+"role_aoe" = "AOE";
+"role_damage" = "輸出";
+
+
+
+"description_angelo" = "安吉洛是遊戲中為數不多的補師之一。他的治療非常貧弱，傷害也不高，但他的沉默有時會很有用。";
+"description_ankhira" = "昂凱拉是一個很軟的英雄，可以通過減少敵人的裝甲來增加她的盟友物理傷害。她也可以擊暈敵人並消耗敵人能量。";
+"description_arden" = "雅頓是遊戲中最好的CC角之一，樹根可以同時綁住3個敵人。";
+"description_athalia" = "阿塔利婭是一個獨特的近戰刺客。她能快速的對敵人產生爆炸性傷害。當更多的隊友活著時，她受到的傷害更少。";
+"description_baden" = "巴登可以召喚幻影來攻擊目標。戰場上的幻影越多，他的輸出就越高，同時也會減少他受到的傷害。";
+"description_belinda" = "貝琳達是一個爆發傷害的英雄，暴擊率很高。她的大招可以造成巨大的傷害。";
+"description_brutus" = "布魯特斯是一個非常強大的近戰輸出，可以Carry全隊。他擁有免疫CC，吸血及HP越低傷害越高。在任何隊伍都至關重要。";
+"description_eironn" = "埃隆是一個近戰輸出，可以將敵人拉向他，可以召喚龍捲風並對擁有護盾的敵人造成更大的傷害。";
+"description_estrilda" = "安絲特瑞達是一個相對弱的坦克，很容易死，但她通過為隊友提供能量回復和減傷。";
+"description_ezizh" = "埃茲的被動會增加能量回復，並可以延遲敵人的大招。";
+"description_fawkes" = "弗克斯是一個遠程DPS，可以消除buff並對敵人施加減益效果。他還可以將敵人鎖進棺材內9秒，完全將其驅逐戰場。";
+"description_ferael" = "法瑞奧有著超強的CC能力。他可以擊暈敵人並減少他們的能量再生。雖然沒有爆發，但是在長時間的戰鬥中他的傷害將會很高。他的許多技能解鎖都有頂級水平。";
+"description_golus" = "高魯斯是一個非常基本的坦克。他有能力造成很多傷害，且可以擊退敵人。";
+"description_gorvo" = "高爾沃是一個能夠擊暈敵人並保護自己的坦克。";
+"description_grezhul" = "格瑞澤爾勒可以召喚不死的爪牙，分散敵人的注意力。他還可以為隊友提供一個魔法盾牌。";
+"description_hendrik" = "亨德里克是一隻非常耐用的CC重型坦克。可以在每次戰鬥中保護一個後排隊友免受致命傷害。";
+"description_hogan" = "霍根是一隻高HP坦克，有不錯的CC，前期實用。與其他坦克相比，傷害稍嫌不足。";
+"description_ira" = "伊拉可以施放減益效果，目標人數越少，大招越快殺死敵人。";
+"description_isabella" = "伊莎貝拉能消耗生命來增加她的能量。攻擊最虛弱的目標加速擊殺。";
+"description_kaz" = "卡茲是個強大的閃避型英雄，可以充當坦克並且在長時間的戰鬥中表現出色。";
+"description_kelthur" = "甘瑟爾是一名揮舞手裡劍的DPS英雄，能夠替換敵人的站位並在且死後化鬼魂繼續戰鬥數秒。";
+"description_khasos" = "克艾索斯是遠程/近戰混合體，被動為提供團隊吸血能力。";
+"description_lucius" = "盧修斯是一個強大的輔助/坦克混合體。他可以治愈和保護隊友。但傷害輸出很低。";
+"description_lyca" = "萊卡是一個輔助，可以為團隊提供強大的開場加速與能量。";
+"description_mehira" = "梅希拉可以對敵人汲取生命與精神控制，且能為隊友提供加速與能量。";
+"description_mirael" = "米瑞兒是一個反魔法英雄，具有不錯的AOE爆發傷害。";
+"description_morvus" = "莫韋斯是一種具有高持續AOE傷害的遠程DPS。他可以擊暈敵人並攻擊最虛弱的目標。";
+"description_nara" = "奈拉在戰場上是一個非常具有破壞性的英雄，能夠使用暈眩、鉤子，並且能減少攻擊她的敵人的能量。大招無視防禦和無敵效果。";
+"description_nemora" = "妮莫拉可以治愈隊友和魅惑敵人互相攻擊。";
+"description_niru" = "尼汝是一個可以吸取敵人生命治愈隊友的法師。當敵人被殺時，他的力量會增強。";
+"description_numisu" = "魯米蘇可以召喚圖騰來幫助他的隊友。圖騰可以為他的團隊提供治療，並嘲弄、分散敵人的注意力。";
+"description_ogi" = "奧吉是一個擁有不錯CC的弱勢坦克。非常依賴強大的DPS。";
+"description_raine" = "雷恩是一個強大的輔助/DPS英雄，大招可以增加隊友對目標的傷害，並回復能量。但隊伍只剩她一人時相對無用。";
+"description_rosaline" = "羅莎琳是一個非常獨特的英雄，將跟隨她在戰鬥中最強大的隊友來治愈和buff他。";
+"description_rowan" = "羅萬能使用他的金幣給予隊友能量和擊暈敵人。也可以丟給隊友的治癒藥水。";
+"description_safiya" = "薩忒娜是一個能夠施放強大的大招來摧毀她的敵人的火焰法師。也能buff隊友和debuff敵人。";
+"description_saveas" = "薩韋斯會消耗自己的生命來增加他的傷害，消耗的HP越多，傷害就越高。雖然他不錯的回血能力，但仍建議放在後排安全的輸出。";
+"description_seirus" = "希瑞斯是一個CC型坦克，大招可以CC敵人並同時造成AOE傷害。";
+"description_shemira" = "雪米拉是一個強大的法師，能夠對敵人造成巨大的AOE傷害，同時還能從中汲取生命。也可以沉默一名敵人法師。";
+"description_silvina" = "西爾維娜是一個刺客型英雄，戰鬥開始時會瞬移至防禦最低的法師背後。";
+"description_skreg" = "斯克雷格是一個獨特的坦克，利用他的坐騎來踩踏和擊倒敵人。";
+"description_tasi" = "塔西是一個擁有強大CC的輔助英雄，受到攻擊時會到處傳送。大招可以CC整個敵隊，在遊戲開始時放逐最強大的敵人數秒。";
+"description_thane" = "瑟恩是一個玻璃炮近戰DPS英雄，相當依賴於爆擊。他的大招使他數秒內免疫所有傷害，在141等前相當脆弱。";
+"description_thoran" = "托安是一名坦克，在戰鬥中被殺時可以複活一次。他會對品階不高於自己的敵人造成更多傷害，並可將受到的傷害連動到血量最少的敵人身上。";
+"description_twins" = "伊萊亞&amp;萊拉擁有兩個英雄的價值。可以戰場上分開戰鬥。一個是混傷，另一個是法師。";
+"description_ulmus" = "奧曼斯是個全能但是都不精的腳色。可在團隊擔任所有位子。";
+"description_vedan" = "韋旦是一名強力的近戰英雄，擁有吸血和爆發傷害。在大招使用期間傷害免疫。";
+"description_vurk" = "沃爾克是一種遠程DPS，具有良好的持續傷害，特別是當敵人站在一起時。";
+"description_warek" = "沃克是一種DPS/坦克混合型英雄，他的背摔可以快速將一名敵人前線英雄丟至我方團隊中間，但也有可能適得其反讓你的後排先被擊殺。";

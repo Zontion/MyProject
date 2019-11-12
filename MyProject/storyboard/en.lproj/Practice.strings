@@ -1,0 +1,87 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0jp-oL-E9N"; */
+"0jp-oL-E9N.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "9qo-Dd-whq"; */
+"9qo-Dd-whq.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Progress"; ObjectID = "BD4-jZ-tym"; */
+"BD4-jZ-tym.normalTitle" = "Progress";
+
+/* Class = "UIButton"; normalTitle = "Button2"; ObjectID = "Fuc-fN-88P"; */
+"Fuc-fN-88P.normalTitle" = "Button2";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "GKk-Yh-duS"; */
+"GKk-Yh-duS.normalTitle" = "NEXT";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Gj8-uG-Qf3"; */
+"Gj8-uG-Qf3.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "🤓"; ObjectID = "HMG-7i-1xY"; */
+"HMG-7i-1xY.normalTitle" = "🤓";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Jof-Yq-aMD"; */
+"Jof-Yq-aMD.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "ShowError"; ObjectID = "KwC-Zm-ob7"; */
+"KwC-Zm-ob7.normalTitle" = "ShowError";
+
+/* Class = "UIButton"; normalTitle = "選取照片"; ObjectID = "LSu-jq-6r3"; */
+"LSu-jq-6r3.normalTitle" = "選取照片";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "UYx-z3-pxb"; */
+"UYx-z3-pxb.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "ShowProgress"; ObjectID = "Wbp-8Y-bUN"; */
+"Wbp-8Y-bUN.normalTitle" = "ShowProgress";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WzS-T0-c3y"; */
+"WzS-T0-c3y.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Camera"; ObjectID = "ZgA-Mx-PhX"; */
+"ZgA-Mx-PhX.normalTitle" = "Camera";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "acw-ce-wYZ"; */
+"acw-ce-wYZ.normalTitle" = "BACK";
+
+/* Class = "UIButton"; normalTitle = "ShowInfo"; ObjectID = "bBg-b4-Jdr"; */
+"bBg-b4-Jdr.normalTitle" = "ShowInfo";
+
+/* Class = "UIButton"; normalTitle = "Option"; ObjectID = "euu-py-pjA"; */
+"euu-py-pjA.normalTitle" = "Option";
+
+/* Class = "UIButton"; normalTitle = "ShowWithStatus"; ObjectID = "gtQ-gQ-dur"; */
+"gtQ-gQ-dur.normalTitle" = "ShowWithStatus";
+
+/* Class = "UIButton"; normalTitle = "🤖"; ObjectID = "ko9-dS-5cP"; */
+"ko9-dS-5cP.normalTitle" = "🤖";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "qQB-aN-Bh6"; */
+"qQB-aN-Bh6.normalTitle" = "NEXT";
+
+/* Class = "UIButton"; normalTitle = "ShowSuccess"; ObjectID = "qTD-Ic-gGa"; */
+"qTD-Ic-gGa.normalTitle" = "ShowSuccess";
+
+/* Class = "UIButton"; normalTitle = "Show"; ObjectID = "qxs-rY-oHI"; */
+"qxs-rY-oHI.normalTitle" = "Show";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "qya-Ut-YzC"; */
+"qya-Ut-YzC.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Dismiss"; ObjectID = "rjG-DI-I9F"; */
+"rjG-DI-I9F.normalTitle" = "Dismiss";
+
+/* Class = "UIButton"; normalTitle = "👾"; ObjectID = "tRg-l3-imo"; */
+"tRg-l3-imo.normalTitle" = "👾";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "tgo-tc-Qkx"; */
+"tgo-tc-Qkx.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uhg-qK-I1D"; */
+"uhg-qK-I1D.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Map"; ObjectID = "wYS-WH-SgQ"; */
+"wYS-WH-SgQ.normalTitle" = "Map";
+
+/* Class = "UIButton"; normalTitle = "👻"; ObjectID = "zEE-tz-Fb9"; */
+"zEE-tz-Fb9.normalTitle" = "👻";
