@@ -52,7 +52,6 @@
 		B5BA6443236683C100E394B6 /* CalendarCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B5BA6442236683C100E394B6 /* CalendarCell.xib */; };
 		B5BA64452366880700E394B6 /* CalendarViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5BA64442366880700E394B6 /* CalendarViewCell.swift */; };
 		B5BA644B2366E24B00E394B6 /* MonthItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5BA644A2366E24B00E394B6 /* MonthItem.swift */; };
-		B5C24287236286C400ACFB08 /* moments.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B5C24286236286C400ACFB08 /* moments.mp4 */; };
 		B5C2428A23628D5C00ACFB08 /* P4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C2428923628D5C00ACFB08 /* P4ViewController.swift */; };
 		B5C2428C23628E6C00ACFB08 /* ViewCutter.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C2428B23628E6C00ACFB08 /* ViewCutter.swift */; };
 		B5C2428E2362927100ACFB08 /* VideoSplashViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C2428D2362927100ACFB08 /* VideoSplashViewController.swift */; };
@@ -75,6 +74,7 @@
 		B5FDD90F236143D9009FF15B /* AFKCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5FDD90E236143D9009FF15B /* AFKCollectionViewCell.swift */; };
 		B5FDD91123617548009FF15B /* AFKDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5FDD91023617548009FF15B /* AFKDetailViewController.swift */; };
 		B5FDD913236185B4009FF15B /* AFKRefreshContents.xib in Resources */ = {isa = PBXBuildFile; fileRef = B5FDD912236185B4009FF15B /* AFKRefreshContents.xib */; };
+		F49A550B237BFAEF008824D1 /* moments.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = F49A550A237BFAEF008824D1 /* moments.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -149,7 +149,6 @@
 		B5BA6442236683C100E394B6 /* CalendarCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CalendarCell.xib; sourceTree = "<group>"; };
 		B5BA64442366880700E394B6 /* CalendarViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarViewCell.swift; sourceTree = "<group>"; };
 		B5BA644A2366E24B00E394B6 /* MonthItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonthItem.swift; sourceTree = "<group>"; };
-		B5C24286236286C400ACFB08 /* moments.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = moments.mp4; path = "../../../30DaysofSwift-master/Project 10 - VideoBackground/SpotifyVideoBackground/moments.mp4"; sourceTree = "<group>"; };
 		B5C2428923628D5C00ACFB08 /* P4ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P4ViewController.swift; sourceTree = "<group>"; };
 		B5C2428B23628E6C00ACFB08 /* ViewCutter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewCutter.swift; sourceTree = "<group>"; };
 		B5C2428D2362927100ACFB08 /* VideoSplashViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoSplashViewController.swift; sourceTree = "<group>"; };
@@ -179,6 +178,7 @@
 		B5FDD91023617548009FF15B /* AFKDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AFKDetailViewController.swift; sourceTree = "<group>"; };
 		B5FDD912236185B4009FF15B /* AFKRefreshContents.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AFKRefreshContents.xib; sourceTree = "<group>"; };
 		F1887717F35B966CC7D2D2B7 /* Pods_MyProjectTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyProjectTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F49A550A237BFAEF008824D1 /* moments.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = moments.mp4; sourceTree = "<group>"; };
 		FA0345746711B1C7A875D4CA /* Pods-MyProjectTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyProjectTests.release.xcconfig"; path = "Target Support Files/Pods-MyProjectTests/Pods-MyProjectTests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -372,14 +372,6 @@
 			path = calendar;
 			sourceTree = "<group>";
 		};
-		B5C242852362868900ACFB08 /* mp4 */ = {
-			isa = PBXGroup;
-			children = (
-				B5C24286236286C400ACFB08 /* moments.mp4 */,
-			);
-			path = mp4;
-			sourceTree = "<group>";
-		};
 		B5C2428823628C7A00ACFB08 /* p4 */ = {
 			isa = PBXGroup;
 			children = (
@@ -433,7 +425,7 @@
 		B5F37184234DDF240079D71E /* MyProject */ = {
 			isa = PBXGroup;
 			children = (
-				B5C242852362868900ACFB08 /* mp4 */,
+				F49A5509237BF796008824D1 /* mp4 */,
 				B5ECEFED235EA672009B21A6 /* xib */,
 				B5B73EA4235D604A00972587 /* projectviewcontroller */,
 				B5C65FB82357012A005A2F41 /* drawable */,
@@ -471,6 +463,14 @@
 				B5A3B1AB237168C000E91199 /* WriteQRCodeViewController.swift */,
 			);
 			path = qrcode;
+			sourceTree = "<group>";
+		};
+		F49A5509237BF796008824D1 /* mp4 */ = {
+			isa = PBXGroup;
+			children = (
+				F49A550A237BFAEF008824D1 /* moments.mp4 */,
+			);
+			path = mp4;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -595,8 +595,8 @@
 				B52F97CA235FFD1D007A375D /* TableViewCell.xib in Resources */,
 				B58076BE236FF91C0096C9BE /* Cell1.xib in Resources */,
 				B5ECEFEF235EA6B4009B21A6 /* RefreshContents.xib in Resources */,
-				B5C24287236286C400ACFB08 /* moments.mp4 in Resources */,
 				B5FDD913236185B4009FF15B /* AFKRefreshContents.xib in Resources */,
+				F49A550B237BFAEF008824D1 /* moments.mp4 in Resources */,
 				B58076C0236FF9E10096C9BE /* Cell2.xib in Resources */,
 				B5F3718B234DDF240079D71E /* Practice.storyboard in Resources */,
 			);

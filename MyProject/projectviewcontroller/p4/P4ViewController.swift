@@ -80,6 +80,8 @@ class P4ViewController: VideoSplashViewController{
         contentURL = url
         // view.isUserInteractionEnabled = false
         
+        // 測試push
+        
     }
     
     func jsonParser(){
